@@ -1,0 +1,86 @@
+# depslib dependency file v1.0
+1412243212 source:/home/eleve/Documents/AffichageSportif/Score.cpp
+	"Score.h"
+	<iostream>
+	<string.h>
+	<iomanip>
+
+1412240385 /home/eleve/Documents/AffichageSportif/Score.h
+
+1412243179 source:/home/eleve/Documents/AffichageSportif/main.cpp
+	<iostream>
+	"Score.h"
+	"Rugby.h"
+	"Foot.h"
+	"Basket.h"
+
+1412241926 /home/eleve/Documents/AffichageSportif/Rugby.h
+	"Score.h"
+
+1412241932 source:/home/eleve/Documents/AffichageSportif/Rugby.cpp
+	"Rugby.h"
+	<iostream>
+	<string.h>
+	<iomanip>
+
+1412243000 source:/home/eleve/Documents/AffichageSportif/Basket.cpp
+	"Basket.h"
+	<iostream>
+	<string.h>
+	<iomanip>
+
+1412242983 /home/eleve/Documents/AffichageSportif/Basket.h
+	"Score.h"
+
+1412242983 source:/home/eleve/Documents/AffichageSportif/Foot.cpp
+	"Foot.h"
+	<iostream>
+	<string.h>
+	<iomanip>
+
+1412242983 /home/eleve/Documents/AffichageSportif/Foot.h
+	"Score.h"
+
+1418900550 source:c:\users\eleve\documents\zair\affichagesport\basket.cpp
+	"Basket.h"
+	<iostream>
+	<string.h>
+	<iomanip>
+
+1418900512 c:\users\eleve\documents\zair\affichagesport\basket.h
+	"Score.h"
+
+1418899554 c:\users\eleve\documents\zair\affichagesport\score.h
+
+1418900420 source:c:\users\eleve\documents\zair\affichagesport\foot.cpp
+	"Foot.h"
+	<iostream>
+	<string.h>
+	<iomanip>
+
+1418899669 c:\users\eleve\documents\zair\affichagesport\foot.h
+	"Score.h"
+
+1418899768 source:c:\users\eleve\documents\zair\affichagesport\main.cpp
+	<iostream>
+	"Score.h"
+	"Rugby.h"
+	"Foot.h"
+	"Basket.h"
+
+1418900512 c:\users\eleve\documents\zair\affichagesport\rugby.h
+	"Score.h"
+
+1418900550 source:c:\users\eleve\documents\zair\affichagesport\rugby.cpp
+	"Rugby.h"
+	<iostream>
+	<string.h>
+	<iomanip>
+
+1418900420 source:c:\users\eleve\documents\zair\affichagesport\score.cpp
+	"Score.h"
+	<iostream>
+	<string.h>
+	<iomanip>
+	<stdio.h>
+
